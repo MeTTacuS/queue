@@ -1,7 +1,3 @@
-
-// Paskutiniai skaiciai - 288
-
-
 #ifndef QUEUE_H
 #define QUEUE_H
 
