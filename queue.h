@@ -30,7 +30,7 @@ void freeQueue(tQueue *q);
 #endif
 
 /*
- * Error code 1 - Eile yra tuscia
- * Error code 2 - Negalima isskirti atminties
- * Error code 3 - Bandoma naudoti eile, kuri nera sukurta
+ * Error code 1 - Queue is empty
+ * Error code 2 - Out of memory
+ * Error code 3 - Queue that you're trying to use was not created
  */
