@@ -99,14 +99,3 @@ void freeQueue(tQueue *q)
     free(current);
     free(q);
 }
-
-
-/*
-sukurti tuscia eile  ---DONE
-patikrinti, ar eile tuscia  ---DONE
-ar eile pilna  --- DONE
-ideti (enqueue) --- DONE
-isimti (dequeue) --- DONE
-gauti pirmo eiles elemento duomenis --- DONE
-sunaikinti eile --- DONE
-*/
